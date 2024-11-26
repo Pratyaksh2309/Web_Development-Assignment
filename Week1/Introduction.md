@@ -136,4 +136,3 @@ JavaScript is a cross-platform, object-oriented scripting language used to make 
 
 ## **We will be moving forward with the frontend framework: React.js . So you will get a clear idea about what else is required in JS. But be clear with the concepts provided in this doc..**
 
-Created with ❤️ by [WnCC](https://itc.gymkhana.iitb.ac.in/wncc/)
