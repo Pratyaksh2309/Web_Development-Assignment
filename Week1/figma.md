@@ -20,5 +20,3 @@ Wait… So how Figma is useful for web dev. While designing your page you can ac
 
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes!](https://youtu.be/FTFaQWZBqQ8?si=jH48IAto6_vgmR4F)
 - Additional Figma Resources: <https://figmaresource.com>
-
-Created with ❤️ by [WnCC](https://itc.gymkhana.iitb.ac.in/wncc/)
