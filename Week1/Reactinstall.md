@@ -73,5 +73,3 @@ Here’s a brief overview of the files and directories in a new React project:
 If you face any problems with anything mentioned in the articles above, feel free to discuss it on the WhatsApp group.
 
 Stay tuned for React.js tutorials coming next week!
-
-Created with ❤️ by [WnCC](https://itc.gymkhana.iitb.ac.in/wncc/)
