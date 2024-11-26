@@ -2,7 +2,7 @@
 
 #### Focus on these two folders.
 #### Learn how to manage these all.
-#### Skip the part you alreaduy know. But don't skip practice and assignments.
+#### Skip the part you already know. But don't skip practice and assignments.
 #### Just remember the deadline is end of December.
 
 
